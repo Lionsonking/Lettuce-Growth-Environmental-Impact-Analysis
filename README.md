@@ -4,3 +4,6 @@
 ## The analysis provided actionable insights for optimizing lettuce cultivation. By identifying how these environmental factors—Temperature, Humidity, pH, and TDS—affect Growth Day, growers can adjust conditions to shorten growth cycles or improve plant quality. For example, maintaining stable Temperature and pH within ideal ranges could enhance consistency, while fine-tuning Humidity might mitigate stress on plants. Temporal trends in Temperature further suggest the need for adaptive strategies across seasons.
 ## Spanning at least two months, the dataset offered a robust sample to draw conclusions, though extending the timeframe could strengthen findings. Overall, this study bridges data-driven analysis with practical agriculture, equipping growers with insights to refine environmental controls and boost lettuce production efficiency.
 # ![chart](https://github.com/user-attachments/assets/39eac523-563f-4b88-a309-57b65e1fbf6e)
+# [Scope-Of-Work Template.pdf](https://github.com/user-attachments/files/19592022/Scope-Of-Work.Template.pdf)
+# [Lettuce Growth Environmental Impact Analysis.pdf](https://github.com/user-attachments/files/19592041/Lettuce.Growth.Environmental.Impact.Analysis.pdf)
+
